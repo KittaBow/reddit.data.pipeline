@@ -1,0 +1,33 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1fegi44,Do you agree!? 😀,329,39,ithoughtful,2024-09-11 17:52:47,https://i.redd.it/anr0zlslx7od1.png,False,False,False,False
+1febwqg,PSA: XML is probably garbage,238,51,Thinker_Assignment,2024-09-11 14:45:07,https://i.redd.it/ifj6o0g107od1.png,False,False,False,False
+1fefngd,From r/dataengineering to Airbyte 1.0: How Your Feedback and Review Helped our Path,35,12,marcos_airbyte,2024-09-11 17:17:45,https://www.reddit.com/r/dataengineering/comments/1fefngd/from_rdataengineering_to_airbyte_10_how_your/,False,False,False,False
+1fe013o,Warehouse Observability and Monitoring,12,13,Napping404,2024-09-11 02:52:13,https://www.reddit.com/r/dataengineering/comments/1fe013o/warehouse_observability_and_monitoring/,False,False,False,False
+1fe77ju,Airflow with Celery for Load Distribution,10,2,ronaldo7goat2000,2024-09-11 10:53:24,https://www.reddit.com/r/dataengineering/comments/1fe77ju/airflow_with_celery_for_load_distribution/,False,False,False,False
+1fe81nv,"Is delta table suitable for storing text data, like sentences ?",9,18,chaachans,2024-09-11 11:43:22,https://www.reddit.com/r/dataengineering/comments/1fe81nv/is_delta_table_suitable_for_storing_text_data/,False,False,False,False
+1fe9fda,Confluent Acquires WarpStream,10,2,hkdelay,2024-09-11 12:55:40,https://hubertdulay.substack.com/p/confluent-acquires-warpstream,False,False,False,False
+1fe4woi,Help with Trino Production Deployment Configuration - Memory & JVM Settings,9,0,Over-Drink8537,2024-09-11 08:07:39,https://www.reddit.com/r/dataengineering/comments/1fe4woi/help_with_trino_production_deployment/,False,False,False,False
+1fe3k87,How to demonstrate cloud experience ,10,1,al8k,2024-09-11 06:26:36,https://www.reddit.com/r/dataengineering/comments/1fe3k87/how_to_demonstrate_cloud_experience/,False,False,False,False
+1femjx1,"About to get back on the job market after 6 years, would really appreciate some feedback on my CV",8,12,rubs90,2024-09-11 22:06:03,https://www.reddit.com/gallery/1femjx1,False,False,False,False
+1fem3ki,How can you spot a noob at DE? ,5,22,Bavender-Lrown,2024-09-11 21:46:14,https://www.reddit.com/r/dataengineering/comments/1fem3ki/how_can_you_spot_a_noob_at_de/,False,False,False,False
+1fee9p8,Weather Data Ingestion,3,1,heightskid51,2024-09-11 16:21:58,https://www.reddit.com/r/dataengineering/comments/1fee9p8/weather_data_ingestion/,False,False,False,False
+1fe5ecr,Random question: would a data cap at 2TB by my internet provider be an issue for someone learning data science? ,3,17,Suitable-Style7321,2024-09-11 08:45:22,https://www.reddit.com/r/dataengineering/comments/1fe5ecr/random_question_would_a_data_cap_at_2tb_by_my/,False,False,False,False
+1fdzsmc,Start Up needing help with Data ,3,5,ben4121,2024-09-11 02:39:25,https://www.reddit.com/r/dataengineering/comments/1fdzsmc/start_up_needing_help_with_data/,False,False,False,False
+1felytx,pipefunc: Build Scalable Data Pipelines with Minimal Boilerplate in Python,2,1,basnijholt,2024-09-11 21:40:31,https://github.com/pipefunc/pipefunc,False,False,False,False
+1fek5ul,"ETL process, what's better?",2,9,Sufficient-Buy-2270,2024-09-11 20:23:47,https://www.reddit.com/r/dataengineering/comments/1fek5ul/etl_process_whats_better/,False,False,False,False
+1fecn84,The 2024 State of PostgreSQL Survey is now open - please take a moment to fill it out if you're using Postgres as your database of choice!,2,0,xenophenes,2024-09-11 15:15:36,https://www.timescale.com/blog/the-2024-state-of-postgresql-survey-is-now-open/,False,False,False,False
+1febsp6,Continuous Syncing or Migration from HMS to AWS Glue Catalog,2,1,Careful-Accountant79,2024-09-11 14:40:29,https://www.reddit.com/r/dataengineering/comments/1febsp6/continuous_syncing_or_migration_from_hms_to_aws/,False,False,False,False
+1fe4sht,Create Column lineage with DBT OSS? (Sqlglot...?),2,1,BBMolotov,2024-09-11 07:59:01,https://www.reddit.com/r/dataengineering/comments/1fe4sht/create_column_lineage_with_dbt_oss_sqlglot/,False,False,False,False
+1fe2amu,Concept check,2,0,Kobalt13mm,2024-09-11 05:01:17,https://www.reddit.com/r/dataengineering/comments/1fe2amu/concept_check/,False,False,False,False
+1fenogc,Seeking Insights on Data Engineering roles at OpenText,1,2,Then_Sundae_7645,2024-09-11 22:56:40,https://www.reddit.com/r/dataengineering/comments/1fenogc/seeking_insights_on_data_engineering_roles_at/,False,False,False,False
+1fejrbh,Early feedback on a library I'm building to work with relative time?,1,0,DuckDatum,2024-09-11 20:06:55,https://www.reddit.com/r/dataengineering/comments/1fejrbh/early_feedback_on_a_library_im_building_to_work/,False,False,False,False
+1feh2t7,"Consuming from Kafka, Pushing to Big Query tech stack alternatives.",1,0,ConfusedOrangePanda,2024-09-11 18:16:11,https://www.reddit.com/r/dataengineering/comments/1feh2t7/consuming_from_kafka_pushing_to_big_query_tech/,False,False,False,False
+1feh00c,Tips for setting up dataops practices when you're trapped by access/security?,1,1,youre_so_enbious,2024-09-11 18:12:52,https://www.reddit.com/r/dataengineering/comments/1feh00c/tips_for_setting_up_dataops_practices_when_youre/,False,False,False,False
+1feafy5,Creating ADLS based external table in Azure SQL Database,1,0,telugubidda,2024-09-11 13:42:56,https://www.reddit.com/r/dataengineering/comments/1feafy5/creating_adls_based_external_table_in_azure_sql/,False,False,False,False
+1fe40l2,Airflow Web UI,1,2,Dr_Fida,2024-09-11 06:59:39,https://www.reddit.com/r/dataengineering/comments/1fe40l2/airflow_web_ui/,False,False,False,False
+1fe0pbt,DIP Search ,1,1,kuro_koffee,2024-09-11 03:28:00,https://www.reddit.com/r/dataengineering/comments/1fe0pbt/dip_search/,False,False,False,False
+1fejqlo,How to automate database change management using GitHub + Liquibase (Live on Thur. Sept. 26 @ 11am CT),0,0,liquibase,2024-09-11 20:06:06,https://www.reddit.com/r/dataengineering/comments/1fejqlo/how_to_automate_database_change_management_using/,False,False,False,False
+1fegi9v,Need relevant datasets,0,5,courage_thedawg,2024-09-11 17:52:57,https://www.reddit.com/r/dataengineering/comments/1fegi9v/need_relevant_datasets/,False,False,False,False
+1fe2l6g,Competing for the JOB with a Triplestore,0,0,Historical_Bat_9793,2024-09-11 05:20:05,https://yyhh.org/blog/2024/09/competing-for-the-job-with-a-triplestore/,False,False,False,False
+1fekow4,9 social media insights from my recent global hack-a-thon!,0,0,JParkerRogers,2024-09-11 20:45:59,https://www.reddit.com/gallery/1fekow4,False,False,False,False
+1fedob3,Databricks vs Snowflake: Choosing Your Data Powerhouse in 2024,0,0,TenMatrix,2024-09-11 15:57:58,https://www.definite.app/blog/databricks-vs-snowflake,False,False,False,False

@@ -1,0 +1,36 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1f925p7,A little joke inspired by Dragon Ball😂,211,4,souru0712,2024-09-04 19:24:52,https://i.redd.it/oir7lnsnfumd1.jpeg,False,False,False,False
+1f90om5,Do entry level data engineering actually exist?,29,31,Kati1998,2024-09-04 18:26:19,https://www.reddit.com/r/dataengineering/comments/1f90om5/do_entry_level_data_engineering_actually_exist/,False,False,False,False
+1f8gugu,How do you handle multi-threaded extracting and loading?,17,10,Justanotherguy2022,2024-09-04 01:18:41,https://www.reddit.com/r/dataengineering/comments/1f8gugu/how_do_you_handle_multithreaded_extracting_and/,False,False,False,False
+1f90lav,Spark 💥,19,16,Forsaken-Force7817,2024-09-04 18:22:41,https://www.reddit.com/r/dataengineering/comments/1f90lav/spark/,False,False,False,False
+1f8jxfl,Trino in production,14,7,Over-Drink8537,2024-09-04 03:53:06,https://www.reddit.com/r/dataengineering/comments/1f8jxfl/trino_in_production/,False,False,False,False
+1f8p76l,Anything pythonish for data validation that isn't pydantic / pandera / json schema?,12,18,Joeboy,2024-09-04 09:46:35,https://www.reddit.com/r/dataengineering/comments/1f8p76l/anything_pythonish_for_data_validation_that_isnt/,False,False,False,False
+1f8nan4,From github actions to a real data orchestrator,11,14,aWhaleNamedFreddie,2024-09-04 07:28:43,https://www.reddit.com/r/dataengineering/comments/1f8nan4/from_github_actions_to_a_real_data_orchestrator/,False,False,False,False
+1f8t8ai,Data warehouse question,10,12,Cold_Ferret_1085,2024-09-04 13:23:20,https://www.reddit.com/r/dataengineering/comments/1f8t8ai/data_warehouse_question/,False,False,False,False
+1f8vvj9,Cloud ELT Tools,8,4,Jappzqz,2024-09-04 15:15:04,https://www.reddit.com/r/dataengineering/comments/1f8vvj9/cloud_elt_tools/,False,False,False,False
+1f8ojfl,HL7 FHIR data ingestion,7,4,brawlerbets,2024-09-04 08:59:33,https://www.reddit.com/r/dataengineering/comments/1f8ojfl/hl7_fhir_data_ingestion/,False,False,False,False
+1f91ugd,"Best way to take data from Facebook, Instagram, YouTube and Twitch to a new database",6,2,Popular_Rain_2601,2024-09-04 19:12:12,https://www.reddit.com/r/dataengineering/comments/1f91ugd/best_way_to_take_data_from_facebook_instagram/,False,False,False,False
+1f8e0dn,How do you handle access control on your data lake/ lake house objects?,6,0,mommylovesme2,2024-09-03 23:07:01,https://www.reddit.com/r/dataengineering/comments/1f8e0dn/how_do_you_handle_access_control_on_your_data/,False,False,False,False
+1f9355r,DBA skills for DE,5,1,wild_bill34,2024-09-04 20:04:26,https://www.reddit.com/r/dataengineering/comments/1f9355r/dba_skills_for_de/,False,False,False,False
+1f8ruxj,Notebooks SQL queries format,3,12,BlackCurrant30,2024-09-04 12:20:22,https://www.reddit.com/r/dataengineering/comments/1f8ruxj/notebooks_sql_queries_format/,False,False,False,False
+1f8p7k2,HOWTO: Write to Delta Lake from Flink SQL,4,0,rmoff,2024-09-04 09:47:16,https://www.reddit.com/r/dataengineering/comments/1f8p7k2/howto_write_to_delta_lake_from_flink_sql/,False,False,False,False
+1f95vh0,Data validation - is this the norm?,4,7,Unfair-Specialist000,2024-09-04 21:58:59,https://www.reddit.com/r/dataengineering/comments/1f95vh0/data_validation_is_this_the_norm/,False,False,False,False
+1f920uf,Tips when beginning AWS?,3,3,souru0712,2024-09-04 19:19:26,https://www.reddit.com/r/dataengineering/comments/1f920uf/tips_when_beginning_aws/,False,False,False,False
+1f90zdf,"Spark pipeline monitoring, alerts, and dashboards",3,0,knightfall0,2024-09-04 18:38:08,https://www.reddit.com/r/dataengineering/comments/1f90zdf/spark_pipeline_monitoring_alerts_and_dashboards/,False,False,False,False
+1f8wyqc,Free Compliance webinar: GDPR and HIPAA (and another run of Python ELT with dlt),3,1,Thinker_Assignment,2024-09-04 15:59:20,https://www.reddit.com/r/dataengineering/comments/1f8wyqc/free_compliance_webinar_gdpr_and_hipaa_and/,False,False,False,False
+1f8niw9,How to validate the correctness of my optimised SQL query to that of production query?,3,2,IllFeature3952,2024-09-04 07:45:35,https://www.reddit.com/r/dataengineering/comments/1f8niw9/how_to_validate_the_correctness_of_my_optimised/,False,False,False,False
+1f8mpyr,Seeking Advice: Automating Query Analysis in Snowflake,3,4,Dark-Electron,2024-09-04 06:46:44,https://www.reddit.com/r/dataengineering/comments/1f8mpyr/seeking_advice_automating_query_analysis_in/,False,False,False,False
+1f8hqee,Suggestions on my first ETL project ,3,0,SalamanderReady6680,2024-09-04 02:01:41,https://www.kaggle.com/datasets/tunguz/us-elections-dataset/data,False,False,False,False
+1f95z3h,Can I Find Tune a LLM model like GPT4-O to parse data in a JSON format from partially structured PDFs?,2,1,captain-ass-smasher,2024-09-04 22:02:56,https://www.reddit.com/r/dataengineering/comments/1f95z3h/can_i_find_tune_a_llm_model_like_gpt4o_to_parse/,False,False,False,False
+1f94msd,"ADF ""On Fail"" for each activity in Pipeline",2,0,EatDoughnut,2024-09-04 21:05:18,https://www.reddit.com/r/dataengineering/comments/1f94msd/adf_on_fail_for_each_activity_in_pipeline/,False,False,False,False
+1f91g79,DE Roles,2,1,AloofGamer,2024-09-04 18:56:44,https://www.reddit.com/r/dataengineering/comments/1f91g79/de_roles/,False,False,False,False
+1f8ijja,Efficient Conversion of Timezone-Aware Timestamps to datetime64[m] in Pandas,2,1,RevolutionaryHunt753,2024-09-04 02:41:11,https://www.reddit.com/r/dataengineering/comments/1f8ijja/efficient_conversion_of_timezoneaware_timestamps/,False,False,False,False
+1f8gpro,Building realtime Dashboard,2,10,EdFell66,2024-09-04 01:12:25,https://www.reddit.com/r/dataengineering/comments/1f8gpro/building_realtime_dashboard/,False,False,False,False
+1f93bp7,Sequence of events analysis ,1,1,TargetDangerous2216,2024-09-04 20:11:51,https://www.reddit.com/r/dataengineering/comments/1f93bp7/sequence_of_events_analysis/,False,False,False,False
+1f8mmjw,How to run local python scripts from Airflow Docker image,1,6,Equal_Independent_36,2024-09-04 06:39:57,https://www.reddit.com/r/dataengineering/comments/1f8mmjw/how_to_run_local_python_scripts_from_airflow/,False,False,False,False
+1f92ul8,what type of mouse is everyone using?,1,24,Interesting-Goose82,2024-09-04 19:52:45,https://www.reddit.com/r/dataengineering/comments/1f92ul8/what_type_of_mouse_is_everyone_using/,False,False,False,False
+1f8ygdc,Practice tests for DP-203 ?,0,1,Enough-Lake7706,2024-09-04 16:58:30,https://www.reddit.com/r/dataengineering/comments/1f8ygdc/practice_tests_for_dp203/,False,False,False,False
+1f8wmgc,DA Certification Reccos,0,0,WeirdoGreedo,2024-09-04 15:45:14,https://www.reddit.com/r/dataengineering/comments/1f8wmgc/da_certification_reccos/,False,False,False,False
+1f8gs3p,"Compression algorithm handles data 3X times faster, shatters benchmark",0,3,egusa,2024-09-04 01:15:29,https://sqream.com/databricks-benchmarks/,False,False,False,False
+1f8kwgz,Valmart 3-Year Data Journey - Retail ,0,1,theant97,2024-09-04 04:48:03,https://www.reddit.com/r/dataengineering/comments/1f8kwgz/valmart_3year_data_journey_retail/,False,False,False,False
+1f8xx0w,data engineer quality dropping?,0,35,No_Flounder_1155,2024-09-04 16:37:09,https://www.reddit.com/r/dataengineering/comments/1f8xx0w/data_engineer_quality_dropping/,False,False,False,False

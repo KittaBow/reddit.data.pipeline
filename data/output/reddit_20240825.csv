@@ -1,0 +1,18 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1f0kdkj,How to realistically make the transition from Data Analyst to Data Engineer?,50,21,khalkhall,2024-08-25 00:54:58,https://www.reddit.com/r/dataengineering/comments/1f0kdkj/how_to_realistically_make_the_transition_from/,False,False,False,False
+1f0otpb,Amazon L5 BIE,24,14,Delicious-Answer7075,2024-08-25 05:07:33,https://www.reddit.com/r/dataengineering/comments/1f0otpb/amazon_l5_bie/,False,False,False,False
+1f0qy6g,Data Governance,24,14,Kaush2911,2024-08-25 07:34:52,https://www.reddit.com/r/dataengineering/comments/1f0qy6g/data_governance/,False,False,False,False
+1f0d1so,How do you ensure semantic consistency across your org?,19,5,chaoflax,2024-08-24 19:10:11,https://www.reddit.com/r/dataengineering/comments/1f0d1so/how_do_you_ensure_semantic_consistency_across/,False,False,False,False
+1f0vrm1,Feedback on my first data engineering project,18,17,0xAstr0,2024-08-25 12:59:38,https://www.reddit.com/r/dataengineering/comments/1f0vrm1/feedback_on_my_first_data_engineering_project/,False,False,False,False
+1f0no2q,Pyruhvro for Faster Avro Serialization and Deserialization with Apache Arrow,15,3,ElectronicOil6900,2024-08-25 03:56:54,https://www.reddit.com/r/dataengineering/comments/1f0no2q/pyruhvro_for_faster_avro_serialization_and/,False,False,False,False
+1f0o4gq,Data Catalog tools,9,6,redditor3900,2024-08-25 04:24:10,https://www.reddit.com/r/dataengineering/comments/1f0o4gq/data_catalog_tools/,False,False,False,False
+1f0yh9l,Advice on end-to-end data pipeline design,6,4,QCumber20,2024-08-25 15:07:15,https://www.reddit.com/r/dataengineering/comments/1f0yh9l/advice_on_endtoend_data_pipeline_design/,False,False,False,False
+1f0rmbs,(Full noob) Transfer data from SSMS to Snowflake for near real time updates,5,11,Turtlicious66,2024-08-25 08:24:23,https://www.reddit.com/r/dataengineering/comments/1f0rmbs/full_noob_transfer_data_from_ssms_to_snowflake/,False,False,False,False
+1f0iyir,Working with API that return data in csv(text) format.,5,8,stock_daddy,2024-08-24 23:42:36,https://www.reddit.com/r/dataengineering/comments/1f0iyir/working_with_api_that_return_data_in_csvtext/,False,False,False,False
+1f105hb,Will an 8GB MacBook Air with 512 SSD be enough for Data Engineering ? Or I should upgrade to 16GB ,4,18,Boom_Burst,2024-08-25 16:19:02,https://www.reddit.com/r/dataengineering/comments/1f105hb/will_an_8gb_macbook_air_with_512_ssd_be_enough/,False,False,False,False
+1f0ud5t,How to start a successful Data Warehouse project,4,0,ImportantA,2024-08-25 11:38:52,https://note.datengineer.dev/posts/how-to-build-a-successful-data-warehouse-project/,False,False,False,False
+1f0xt1x,Optimizing Databricks Scheduler,3,0,codingdecently,2024-08-25 14:37:47,https://overcast.blog/optimizing-databricks-scheduler-5827cdad28f4,False,False,False,False
+1f0xk6n,Learning opportunities ,3,2,MetzShadz,2024-08-25 14:26:53,https://www.reddit.com/r/dataengineering/comments/1f0xk6n/learning_opportunities/,False,False,False,False
+1f0t02w,A question about the Pentaho Kettle,2,0,Grouchy_Detective880,2024-08-25 10:07:40,https://www.reddit.com/r/dataengineering/comments/1f0t02w/a_question_about_the_pentaho_kettle/,False,False,False,False
+1f0kmjx,Data engineering problem,2,8,Commercial_Finance_1,2024-08-25 01:08:02,https://www.reddit.com/r/dataengineering/comments/1f0kmjx/data_engineering_problem/,False,False,False,False
+1f0me3h,Trino with Iceberg and Kudu : Performance Issues with Querying a View Combining Iceberg & Kudu Data Sources in Trino,1,0,Square-Public-5354,2024-08-25 02:43:04,https://www.reddit.com/r/dataengineering/comments/1f0me3h/trino_with_iceberg_and_kudu_performance_issues/,False,False,False,False
